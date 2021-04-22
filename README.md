@@ -43,7 +43,7 @@ Conclusion: Since most New Yorkers work from 9am to 5pm EST, there is potential 
 
 
 
-##Brainstorm - Feel Free to look this over before our meeting Rita and Leon
+## Brainstorm - Feel Free to look this over before our meeting Rita and Leon
 Steps: 
 1. Storing Data in SQL Database
 2. Data Cleaning in Python
