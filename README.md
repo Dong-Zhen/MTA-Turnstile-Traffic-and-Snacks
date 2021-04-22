@@ -14,7 +14,7 @@ For my mta turnstile project I will be reaching out to a non-existant nonprofit 
 1. Vegetable, Meat, Mixed Snack Bags $3 each
 2. Bottled Water, Bottled Coffee $1 each
 3. Chocolate Bar and Hard Candy $1 for 2 
-## Profits go back to the community. Prepay through our App for quick pickup. 
+#### Profits go back to the community. Prepay through our App for quick pickup. 
 
 # Project email
 
@@ -43,7 +43,7 @@ Conclusion: Since most New Yorkers work from 9am to 5pm EST, there is potential 
 
 
 
-Brainstorm - Feel Free to look this over before our meeting Rita and Leon
+##Brainstorm - Feel Free to look this over before our meeting Rita and Leon
 Steps: 
 1. Storing Data in SQL Database
 2. Data Cleaning in Python
