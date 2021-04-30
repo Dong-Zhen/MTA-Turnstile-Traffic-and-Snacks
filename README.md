@@ -1,11 +1,24 @@
 # MTA-Turnstile-Traffic-and-Snacks
 
-# Project Idea
-For my mta turnstile project I will be reaching out to a non-existant nonprofit company called Yolocal Snack. They sell affordable traveler snacks supplied by the local food community to New York City commuters. Yolocal Snack aims to help local food communities make revenue and make commuters happy by solving their energy and hunger problems. According to [geotab](https://www.geotab.com/time-to-commute/), 90% of NYC residents' commute take longer than 1 hour. A lot can change for commuters emotionaly and physically within that time frame especially if they were in a rush to get to their destinations during meal hours and missed their meals. 
+# Abstract
 
-**Potential Business Ideas**
-- Future store locations near top stations commuters enter during weekday meal hours
-- To find ways to handle demand, they'd like to know if there are "rush hours" at these stations, when enters/exits far exceeds average enters/exits
+For my mta turnstile project I reached to a non-existant nonprofit company called Yolocal Snack. They sell affordable traveler snacks supplied by the local food community to New York City commuters. Yolocal Snack aims to help local food communities make revenue and make commuters happy by solving their energy and hunger problems. According to [geotab](https://www.geotab.com/time-to-commute/), 90% of NYC residents' commute take longer than 1 hour. A lot can change for commuters emotionaly and physically within that time frame especially if they were in a rush to get to their destinations during meal hours and missed their meals. My job as their analysis is to use public mta turnstile data to find where long distance commuters are traveling during common meal hours.
+
+# Design 
+
+Based of popular happy hour and breakfast times, I set the common meal hours for morning entry to be 8am - 12pm and evening exits to be 4pm - 8pm. Then I defined a commuter as a nine to five worker or student who goes to a different location on weekdays. Because it is difficult to know who is a long distance commuter, I used the subway map to identify two key variables. Most of the 
+
+
+
+
+
+
+
+
+
+
+
+
 
 **Additional Info**
 ## Yolocal Snack
@@ -25,4 +38,4 @@ I visited your store last week and picked up a vegetable snack bag. I really enj
 - [Project Proposal](https://github.com/Dong-Zhen/MTA-Turnstile-Traffic-and-Snacks/blob/main/Project%20Proposal)
 - [Minimum Value Product](https://github.com/Dong-Zhen/MTA-Turnstile-Traffic-and-Snacks/blob/main/Minimum%20Viable%20Project.ipynb)
 - [Final Project](https://github.com/Dong-Zhen/MTA-Turnstile-Traffic-and-Snacks/blob/main/Final%20Project.ipynb)
-- [Powerpoint]()
+- [Powerpoint](https://docs.google.com/presentation/d/1uCbHEH0aWIi07sBKRHpBZZahULftGJly6JFWm-jPKRU/edit?ts=608b18ca#slide=id.gd1484a9085_0_2384)
