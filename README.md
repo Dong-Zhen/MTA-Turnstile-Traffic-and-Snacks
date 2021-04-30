@@ -38,4 +38,4 @@ I visited your store last week and picked up a vegetable snack bag. I really enj
 - [Project Proposal](https://github.com/Dong-Zhen/MTA-Turnstile-Traffic-and-Snacks/blob/main/Project%20Proposal)
 - [Minimum Value Product](https://github.com/Dong-Zhen/MTA-Turnstile-Traffic-and-Snacks/blob/main/Minimum%20Viable%20Project.ipynb)
 - [Final Project](https://github.com/Dong-Zhen/MTA-Turnstile-Traffic-and-Snacks/blob/main/Final%20Project.ipynb)
-- [Powerpoint](https://docs.google.com/presentation/d/1uCbHEH0aWIi07sBKRHpBZZahULftGJly6JFWm-jPKRU/edit?ts=608b18ca#slide=id.gd1484a9085_0_2384)
+- [Powerpoint](https://github.com/Dong-Zhen/MTA-Turnstile-Traffic-and-Snacks/blob/main/Yo-Local%20Snacks.pptx)
