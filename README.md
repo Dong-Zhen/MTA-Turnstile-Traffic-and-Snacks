@@ -22,21 +22,7 @@ To: YoLocal Snack Executives, Rita and Leon
 
 I visited your store last week and picked up a vegetable snack bag. I really enjoyed the sweet potato hashbrowns inside, it gave me the energy to work through the morning. Due to that experience and my desire to help the community, I want to contribute towards Yolocal Snack's vision of energizing commuters with locally made traveler snacks. With my data science background, I could prepare a report for you by the end of next week that will help you identify the top stations where New Yorkers with long commutes exit and enter from. Within the report, you can also find visualizations of four-hour-time windows when you could expect a rush of people leaving or entering those stations. These insights could help Yolocal Snack find new locations to open shops and better prepare for higher demands during certain time frames. I attached a project proposal in the email, please let me know if you are interested and if you have any questions. Looking forward to hearing back from the team. 
 
-# Project Proposal 
-
-Objective: Use MTA's public Turnstile Data to help YoLocal Snack expand into communities with stations that New Yorkers enter and exit for long daily commutes. Determine when "rush hours" are to prevent overcrowded shops and to fully meet demands.  
-
-Datasets: MTA's Turnstile Data, Dataset that has location of stations
-Resources Required: Mta train schedule to estimate how long commutes are from stations within Queens or Brooklyn to Manhattan, or a study based on new york city commute time. 
-Domain Knowledge: Learn if fast food sellers near potential stations receive more customers during meal hours, Know Habits of New York Commuter(I have a decade of transit commuting observations), mta person who uploads the mta data  
-Tools: SQL, Python libraries: Pandas, Numpy, Matplotlib, Seaborn
-Algorithms: TBH
-
-Step1: Store datasets into SQL Database 
-Step2: Pull SQL tables into Python
-Step3: Clean data in Python
-Step4: Perform Exploratory Data Analysis
-Step5: Plot and Visualize Data
-
-Conclusion: Since most New Yorkers work from 9am to 5pm EST, there is potential for Yolocal Snack to fill in their hunger and thirst needs. My analysis and visualizations will reveal which stations within each borough receive the most commuters on weekdays,determine whether or not most New Yorkers commute during meal hours and present a rough estimate of how long commutes take for commuters within stations. 
-
+(Project Proposal)[https://github.com/Dong-Zhen/MTA-Turnstile-Traffic-and-Snacks/blob/main/Project%20Proposal]
+(Minimum Value Product)[https://github.com/Dong-Zhen/MTA-Turnstile-Traffic-and-Snacks/blob/main/Minimum%20Viable%20Project.ipynb]
+(Final Project)[https://github.com/Dong-Zhen/MTA-Turnstile-Traffic-and-Snacks/blob/main/Final%20Project.ipynb]
+(Powerpoint)[]
