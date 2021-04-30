@@ -22,7 +22,7 @@ To: YoLocal Snack Executives, Rita and Leon
 
 I visited your store last week and picked up a vegetable snack bag. I really enjoyed the sweet potato hashbrowns inside, it gave me the energy to work through the morning. Due to that experience and my desire to help the community, I want to contribute towards Yolocal Snack's vision of energizing commuters with locally made traveler snacks. With my data science background, I could prepare a report for you by the end of next week that will help you identify the top stations where New Yorkers with long commutes exit and enter from. Within the report, you can also find visualizations of four-hour-time windows when you could expect a rush of people leaving or entering those stations. These insights could help Yolocal Snack find new locations to open shops and better prepare for higher demands during certain time frames. I attached a project proposal in the email, please let me know if you are interested and if you have any questions. Looking forward to hearing back from the team. 
 
-[Project Proposal](https://github.com/Dong-Zhen/MTA-Turnstile-Traffic-and-Snacks/blob/main/Project%20Proposal)
-[Minimum Value Product](https://github.com/Dong-Zhen/MTA-Turnstile-Traffic-and-Snacks/blob/main/Minimum%20Viable%20Project.ipynb)
-[Final Project](https://github.com/Dong-Zhen/MTA-Turnstile-Traffic-and-Snacks/blob/main/Final%20Project.ipynb)
-[Powerpoint]()
+- [Project Proposal](https://github.com/Dong-Zhen/MTA-Turnstile-Traffic-and-Snacks/blob/main/Project%20Proposal)
+- [Minimum Value Product](https://github.com/Dong-Zhen/MTA-Turnstile-Traffic-and-Snacks/blob/main/Minimum%20Viable%20Project.ipynb)
+- [Final Project](https://github.com/Dong-Zhen/MTA-Turnstile-Traffic-and-Snacks/blob/main/Final%20Project.ipynb)
+- [Powerpoint]()
