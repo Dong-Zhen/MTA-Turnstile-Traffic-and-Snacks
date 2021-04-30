@@ -6,19 +6,26 @@ For my mta turnstile project I reached to a non-existant nonprofit company calle
 
 # Design 
 
-Based of popular happy hour and breakfast times, I set the common meal hours for morning entry to be 8am - 12pm and evening exits to be 4pm - 8pm. Then I defined a commuter as a nine to five worker or student who goes to a different location on weekdays. Because it is difficult to know who is a long distance commuter, I used the subway map to identify two key variables. Most of the 
+Based of popular happy hour and breakfast times, I set the common meal hours for morning entry to be 8am - 12pm and evening exits to be 4pm - 8pm. Then I defined a commuter as a nine to five worker or student who goes to a different location on weekdays. Because it is difficult to know who is a long distance commuter, I used the subway map to identify two key variables. There's a clear distance distinction for stations that go into boroughs that is not Manhattan and stations with one or two lines.
 
+# Data
 
+MTA data from January 2021 to April 2021 forms the basis of my analysis. This is a good time frame to look at New York's commuter cycle. Students go back to school in January and workers resume work after major holidays. Additionally, the turnstile data has reset so it's possible to detect where anomalies begin and decide what to do with them. Decreases in commuter traffic due to COVID is not a concern because YoLocal Snack is serving New Yorkers who need to commute to work.
+The MTA turnstile Data is used to find entry and exit traffic, time of day, and station and lines. I joined this data with Mta's location data to find the boroughs for each station. 
 
+# Algorithm
 
+After pulling in the dataset, I focused in finding and fixing the inconcsistencies within the dataset and then defining a unique identifier. After combining, the CA, UNIT, SCP, and Station together to form a unique turnstile, I was able to find and eliminate duplicates. As for the inconsistenies, I notice over 6000 unique time values which had to be reformatted to only 4 hour time windows between 12 am and 12 am. To deal with outliers, I kept only the data above the 25 quantile and below 90 quantile. Then, I had to find the entry and exit values for particular time in day using the cumulative value in the dataset. After filtering the dataframe by lines and stations outside of Manhattan, the data was ready for analysis.
 
+During analysis, I used the top thirty top traffic stations from the filtered data to find high density stations. From these high density stations, I used the total morning entry and evening exit traffic to find the five stations with the most traffic during meal hours.   
 
+# Tools
 
+I used sqlite3 to store the mta turnstile and location data. Python was used to extract, clean, and analyze the data. Matplotlib and seaborn were used to plot the dataframe and visualize the results. The datetime module was used to manipulate datetime data types to aid in cleaning. 
 
+# Conclusion
 
-
-
-
+If YoLocal Snacks wants to locate by the busiest station than it would be Junction Boulevard. If they want a steady stream of commuters during morning and evening meal hours than they should locate by 77 St in Brooklyn.
 
 **Additional Info**
 ## Yolocal Snack
